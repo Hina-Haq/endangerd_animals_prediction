@@ -172,4 +172,5 @@ endangerd_animals_prediction/
 ---
 
 *This project is for educational purposes only*
-*Student Project from IronHack*
+
+*A Student Project from IronHack*
